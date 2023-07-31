@@ -1,4 +1,4 @@
-# Course MLOps-Zoomcamp Final Project Capstone
+# Course MLOps-Zoomcamp Final Project
 
 ## Project name
 
